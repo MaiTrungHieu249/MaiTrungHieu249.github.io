@@ -5,8 +5,8 @@
     <head>
 <body>
   <h1>Giới thiệu cá nhân </h1>
-  <p> Tôi tên:Mai Trung Hiếu.</p>
-  <p> Nghề nghiệp: sinh viên </p>
+  <p> Tôi tên : Mai Trung Hiếu.</p>
+  <p> Nghề nghiệp : Sinh viên </p>
   <p> Trường : CĐ Kỹ Thuật Công Nghệ Nha Trang</p
   <p> Lớp : CTT14CĐ3B</P>
   <p> Ngành : Công Nghệ Thông Tin </p>
